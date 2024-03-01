@@ -9,6 +9,7 @@
   width: 335px;
   height: 535px;
   align-items: center;
+  cursor: pointer;
 }
 
 .book-category-image {
